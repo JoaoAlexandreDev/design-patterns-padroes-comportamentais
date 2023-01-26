@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c39234c0-cc1c-4811-bd67-483b9d22c51a" name="csp" url="http://ftp.csp-rp.com.br">
+        <fileTransfer rootFolder="/public_html/ssp_system" host="ftp.csp-rp.com.br" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
